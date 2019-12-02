@@ -1,0 +1,39 @@
+body {
+    background-image: url("images/CaribbeanWater.jpg");
+    background-size: 100% 100%;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+#SintMartin {
+    color: lightgrey;
+    font-size: 35px;
+}
+
+#Aruba {
+    color:lightsalmon;
+    font-size: 35px;
+}
+
+#Curacao {
+    color:lightsalmon;
+    font-size: 35px;
+}
+.paragraph {
+    text-align: justify;
+    color: lightgoldenrodyellow;
+    width: 40%;
+    font-size: 25px;
+}
+
+figure img {
+    width: 50%;
+}
+
+footer {
+    color: lime;
+    font-size: 35px;
+}
